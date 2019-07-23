@@ -8,8 +8,8 @@ Please feel free to share the game on any website you would like. You can [downl
 
 ## About This Project
 
-The game is originally from [supermariobroscrossover](http://supermariobroscrossover.com/resources/super-mario-bros-crossover.84/).
-This project just let it run in Container without any change, if any disputes, the project will be destroyed instantly.
+The game is originally from [super mario bro scrossover](http://supermariobroscrossover.com/resources/super-mario-bros-crossover.84/).
+I just let it run in Docker without any change so anyone can play on his or her own machine, if any disputes, I will destroy the whole project instantly.
 
 
 ## How to Run
@@ -26,6 +26,6 @@ Let it fly:
 docker run -p 9999:80 krystism/super_mario_crossover:3.1.21
 ```
 
-Then you can hit http://localhost:9999 or http://host-ip:9999 in your browser, Only test Google Chrome 75.0.3770.142.
+Then you can hit http://localhost:9999 or http://host-ip:9999 in your browser. Chrome 75.0.3770.142 is OK in my host, but I guess any other brower with Flash support should work well too.
 
 Enjoy yourself : )
